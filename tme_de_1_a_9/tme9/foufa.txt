@@ -1,0 +1,4 @@
+taille_population:1000
+nbpas:100
+nbregles:50
+nbgen:50
